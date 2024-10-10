@@ -46,6 +46,7 @@ function updateTime() {
     </div>
     `;
   }
+
   
   updateTime();
   setInterval(updateTime, 1000);
